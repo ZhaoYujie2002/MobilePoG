@@ -1,0 +1,17 @@
+model: AFFNet
+dataset: 
+  - /path/to/Dynamic-MobilePoG
+train:
+  params:
+    batch_size: 128
+    num_workers: 64
+    epoch: 12
+    lr: 0.00001
+    warmup_epoch: 1
+    decay: 0.1
+    decay_epoch: 8
+  load: /path/to/pretrained_model_weight
+  save: 
+    save_path: result/model/affnet_DynamicMobilePoG
+    save_epoch: 1
+   

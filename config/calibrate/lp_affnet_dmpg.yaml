@@ -1,0 +1,16 @@
+model: AFFNet
+dataset: /path/to/Dynamic-MobilePoG
+seed: 6666
+calibrate:
+  params:
+    batch_size: 16
+    num_workers: 16
+    epoch: 15
+    lr: 0.05
+  load: /path/to/Dynamic-MobilePoG/model_weight
+  save: 
+    save_path: result/calibrate/lp_affnet_DynamicMobilePoG
+    save_epoch: 1
+  sample_point_num: 1
+  sample_num: 30
+  sample_method: Continuous
