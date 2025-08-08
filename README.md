@@ -18,7 +18,7 @@
 </a>
 -->
 <a href="">
-  <img src="https://img.shields.io/badge/arXiv-2507.07136-b31b1b" alt="arXiv">
+  <img src="https://img.shields.io/badge/arXiv- -b31b1b" alt="arXiv">
 </a>
 <a href="https://mobile-pog.github.io/">
   <img src="https://img.shields.io/badge/Project_Page-MobilePoG-green" alt="Project Page">
