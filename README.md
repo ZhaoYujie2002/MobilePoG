@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Paper-VGGT" alt="Paper PDF">
 </a>
 -->
-<a href="">
+<a href="https://arxiv.org/abs/2508.10268">
   <img src="https://img.shields.io/badge/arXiv-2508.10268-b31b1b" alt="arXiv">
 </a>
 <a href="https://mobile-pog.github.io/">
