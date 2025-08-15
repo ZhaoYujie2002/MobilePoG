@@ -18,7 +18,7 @@
 </a>
 -->
 <a href="">
-  <img src="https://img.shields.io/badge/arXiv- -b31b1b" alt="arXiv">
+  <img src="https://img.shields.io/badge/arXiv-2508.10268-b31b1b" alt="arXiv">
 </a>
 <a href="https://mobile-pog.github.io/">
   <img src="https://img.shields.io/badge/Project_Page-MobilePoG-green" alt="Project Page">
@@ -143,6 +143,15 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 OMP_NUM_THREADS=1 python -m torch.distributed.launc
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
     <pre><code>
+    @misc{zhao2025poserobustcalibrationstrategypointofgaze,
+      title={Pose-Robust Calibration Strategy for Point-of-Gaze Estimation on Mobile Phones}, 
+      author={Yujie Zhao and Jiabei Zeng and Shiguang Shan},
+      year={2025},
+      eprint={2508.10268},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.10268}, 
+    }
     </code></pre>
   </div>
 </section>
